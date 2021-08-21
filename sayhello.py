@@ -16,7 +16,6 @@ def baner():
 ╠╩╗├┬┘│ │ │ ├─┤│  ╚═╗├─┘├─┤││││││├┤ ├┬┘
 ╚═╝┴└─└─┘ ┴ ┴ ┴┴─┘╚═╝┴  ┴ ┴┴ ┴┴ ┴└─┘┴└─
 \t------------
-Fuck You Rayet
 \nCredit: langitcimuncang
 Github : github.com/langitakum
 ==========================================''')
